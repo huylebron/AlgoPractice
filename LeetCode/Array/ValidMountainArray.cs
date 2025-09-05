@@ -40,7 +40,7 @@ public class ValidMountainArray
 
 
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         ValidMountainArray valid = new ValidMountainArray();
         
