@@ -16,7 +16,7 @@ public class ArraybyIncreasingFrequency
         return nums.OrderBy(x => freq[x]).ThenByDescending(x => x).ToArray(); 
     }
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         ArraybyIncreasingFrequency arr = new ArraybyIncreasingFrequency();
         int[] nums = {1,1,2,2,2,3};
