@@ -23,7 +23,7 @@ public class PlusOne
 
     }
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         int[] digits = {9,9,9}; 
         PlusOne sol = new PlusOne();
