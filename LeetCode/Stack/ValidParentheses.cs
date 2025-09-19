@@ -37,7 +37,7 @@ public class ValidParentheses
 
     }
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         var sol = new ValidParentheses();
         
