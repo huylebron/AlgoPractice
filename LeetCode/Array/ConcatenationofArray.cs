@@ -8,7 +8,7 @@ public class ConcatenationofArray
 
     }
 
-    public static void Main(string[] args)
+    public static void Main1(string[] args)
     {
         ConcatenationofArray sol = new ConcatenationofArray();
         int[] nums = {1,2,1};
